@@ -141,11 +141,10 @@ ORDER BY numCampeones DESC;
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tft-database-project.git
+git clone https://github.com/abrilbelso001/tft-database-project.git
 cd tft-database-project
 ```
 
-Cambia `tu-usuario` por tu usuario real de GitHub.
 
 ### 2. Instalar dependencias
 
